@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/DAL/CourseinstructorDAL.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/DAL/OnsiteCourseDAL.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/UI/StudentGUI.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/UI/QLKhoaHoc.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/DAL/OnlineCourse.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/BLL/CourseBLL.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/DAL/StudentGrade.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/UI/SuggestPersonID.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/DAL/MyDatabaseManager.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/DAL/Courseinstructor.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/DAL/OnsiteCourse.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/UI/StudentGradeGUI.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/DAL/PersonDAL.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/UI/SuggestCourseID.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/UI/CourseinstructorUI.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/BLL/OnsiteCourseBLL.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/DAL/Department.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/DAL/OnlineCourseDAL.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/BLL/DepartmentBLL.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/DAL/DepartmentDAL.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/DAL/CourseDAL.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/UI/OnsiteCourseGUI.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/UI/OnlineCourseGUI.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/BLL/OnlineCourseBLL.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/BLL/PersonBLL.java</file>
+            <file>file:/C:/Users/thuyn/Documents/GitHub/PL_ProjectQLKhoaHoc/src/DAL/StudentGradeDAL.java</file>
+        </group>
+    </open-files>
+</project-private>
